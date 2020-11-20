@@ -1,6 +1,6 @@
 # Calculator
 
-#### Creat A Calculator
+#### Create A Calculator
 
 ## By Collin Chapman
 
